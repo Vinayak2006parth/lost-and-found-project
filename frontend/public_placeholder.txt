@@ -1,0 +1,1 @@
+Place your public assets (like placeholder.png) in frontend/public/
